@@ -1,0 +1,13 @@
+.search-row-wrapper {
+    font-size: 1em;
+}
+
+.search-wiki, .input-group {
+    width: 200px;
+}
+
+@media (min-width: 450px) {
+    .search-wiki {
+        width: 250px;
+    }
+}
